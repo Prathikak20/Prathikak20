@@ -67,3 +67,5 @@
 
 ![snake gif](https://github.com/Prathikak20/Prathikak20/blob/output/github-contribution-grid-snake.svg)
 ![github-contribution-snake](https://raw.githubusercontent.com/Platane/snk/github-contribution-snake/output/github-contribution-snake.svg)
+![github contribution snake](https://raw.githubusercontent.com/Prathikak20/Prathikak20/output/github-contribution-grid-snake.svg)
+
