@@ -9,9 +9,10 @@
 
 ## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prathikak20&layout=compact&theme=default)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prathikak20&show_icons=true&theme=default)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Prathikak20&theme=default)
+## 📊 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prathikak20&layout=compact&theme=radical)
+
 
 ---
 
