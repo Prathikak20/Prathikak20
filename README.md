@@ -3,7 +3,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Prathikak20&label=Profile%20views&color=0e75b6&style=flat)
 [![LinkedIn]
-[![Twitter](https://img.shields.io/badge/TWITTER-black?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
+[![Twitter]
 
 ---
 
